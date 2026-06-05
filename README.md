@@ -1,4 +1,4 @@
-# Hi, I’m [Name]
+# Hi, I’m John Lim
 
 I’m interested in competitive mathematics, algorithms, and computational physics.
 
